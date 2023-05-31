@@ -1,0 +1,3 @@
+[submodule "PracticeStuff"]
+	path = PracticeStuff
+	url = https://github.com/GMKEnd/PracticeStuff.git
